@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Golden Sanctuary Beeswax Candle | Beeswax Pat</title>
+  <meta name="description" content="100% pure American organic beeswax candle. Hand-poured by a father and son in Maryland. No paraffin, no soy, no blends. 40+ hour burn time.">
+  <meta name="robots" content="noindex"><!-- Funnel page — not for indexing -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+
+  <style>
+    /* Funnel-specific overrides */
+    .funnel-bar {
+      background: var(--dark);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 99;
+    }
+
+    .funnel-bar .nav-logo { font-size: 1.2rem; }
+
+    .funnel-bar .funnel-ship {
+      font-size: 0.75rem;
+      color: var(--honey-glow);
+      letter-spacing: 0.06em;
+    }
+
+    .funnel-hero {
+      padding: 72px 24px 80px;
+      background: linear-gradient(160deg, var(--warm-white), var(--cream));
+      text-align: center;
+    }
+
+    .funnel-hero h1 {
+      font-size: clamp(2.2rem, 5vw, 3.6rem);
+      color: var(--dark);
+      max-width: 720px;
+      margin: 0 auto 20px;
+    }
+
+    .funnel-hero h1 em { font-style: italic; color: var(--honey); }
+
+    .funnel-hero-sub {
+      font-size: 1rem;
+      color: var(--text-muted);
+      max-width: 560px;
+      margin: 0 auto 40px;
+      line-height: 1.7;
+    }
+
+    .funnel-product-img {
+      max-width: 400px;
+      margin: 0 auto 40px;
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-honey);
+    }
+
+    .funnel-price {
+      font-family: var(--font-serif);
+      font-size: 2.4rem;
+      font-weight: 700;
+      color: var(--dark);
+      margin-bottom: 24px;
+    }
+
+    .funnel-buy-wrap {
+      max-width: 440px;
+      margin: 0 auto;
+    }
+
+    .funnel-trust-badges {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      flex-wrap: wrap;
+      margin-top: 20px;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .funnel-trust-badges span {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .funnel-problem {
+      padding: 72px 24px;
+      background: var(--cream);
+    }
+
+    .funnel-problem-inner {
+      max-width: 680px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .funnel-problem h2 {
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: var(--dark);
+      margin-bottom: 28px;
+    }
+
+    .funnel-problem-list {
+      text-align: left;
+      margin: 0 auto 32px;
+      max-width: 480px;
+    }
+
+    .funnel-problem-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.92rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .funnel-problem-list li:last-child { border-bottom: none; }
+
+    .funnel-problem-list .cross { font-size: 1rem; margin-top: 2px; flex-shrink: 0; }
+
+    .funnel-details {
+      padding: 72px 24px;
+      background: var(--warm-white);
+    }
+
+    .funnel-details-inner {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 72px;
+      align-items: center;
+    }
+
+    .funnel-story-blurb {
+      padding: 72px 24px;
+      background: var(--dark);
+      text-align: center;
+    }
+
+    .funnel-story-blurb h2 {
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: var(--honey-glow);
+      margin-bottom: 16px;
+    }
+
+    .funnel-story-blurb p {
+      color: rgba(245, 223, 160, 0.7);
+      max-width: 540px;
+      margin: 0 auto 32px;
+      font-size: 0.95rem;
+      line-height: 1.8;
+    }
+
+    .funnel-faq {
+      padding: 72px 24px;
+      background: var(--cream);
+    }
+
+    .funnel-final-cta {
+      padding: 80px 24px;
+      background: var(--warm-white);
+      text-align: center;
+    }
+
+    .funnel-final-cta h2 {
+      font-size: clamp(1.8rem, 3vw, 2.6rem);
+      color: var(--dark);
+      margin-bottom: 16px;
+    }
+
+    .funnel-final-cta p {
+      color: var(--text-muted);
+      margin-bottom: 32px;
+      max-width: 480px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .funnel-footer {
+      background: var(--dark);
+      text-align: center;
+      padding: 28px 24px;
+      font-size: 0.78rem;
+      color: rgba(245, 223, 160, 0.4);
+    }
+
+    .funnel-footer a { color: rgba(245, 223, 160, 0.55); }
+
+    @media (max-width: 720px) {
+      .funnel-details-inner { grid-template-columns: 1fr; gap: 40px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="funnel-bar">
+  <div class="nav-logo" style="color: var(--honey-glow);">Beeswax <span>Pat</span></div>
+  <span class="funnel-ship">📦 Ships within 1 business day</span>
+</div>
+
+<!-- HERO -->
+<section class="funnel-hero">
+  <h1>The Last Candle You'll Ever Need to Research</h1>
+  <p class="funnel-hero-sub">
+    100% pure American beeswax. No blends. No paraffin. No synthetic fragrance.
+    Hand-poured by a father and son in Maryland. One ingredient. That's the whole story.
+  </p>
+
+  <img
+    src="images/hero-candle.jpeg"
+    alt="Golden Sanctuary beeswax candle, lit and glowing, on a wood tray"
+    class="funnel-product-img"
+    width="400"
+    height="400"
+  >
+
+  <div class="funnel-price">$28</div>
+
+  <div class="funnel-buy-wrap">
+    <!-- ============================================================
+         STRIPE BUY BUTTON — 1 CANDLE ($28)
+         Replace the <a> below with your Stripe <stripe-buy-button> embed code
+         ============================================================ -->
+    <a href="YOUR_STRIPE_PAYMENT_LINK_1_CANDLE" class="btn-buy" style="max-width:440px; margin:0 auto;" aria-label="Buy Golden Sanctuary candle for $28">
+      Get Yours — $28
+    </a>
+    <!-- REPLACE WITH:
+    <script async src="https://js.stripe.com/v3/buy-button.js"></script>
+    <stripe-buy-button buy-button-id="YOUR_ID" publishable-key="YOUR_KEY"></stripe-buy-button>
+    -->
+
+    <div class="funnel-trust-badges">
+      <span>🔒 Secure Checkout</span>
+      <span>📦 Ships Tomorrow</span>
+      <span>🇺🇸 Made in USA</span>
+    </div>
+  </div>
+</section>
+
+<!-- PROBLEM / AGITATION -->
+<section class="funnel-problem">
+  <div class="funnel-problem-inner">
+    <h2>Tired of Candles That…</h2>
+    <ul class="funnel-problem-list" role="list">
+      <li>
+        <span class="cross">✗</span>
+        <span><strong>Smell like a chemical lab.</strong> Synthetic fragrance oils are complex mixtures of synthetic compounds — the #1 cause of candle-related headaches and sensitivities.</span>
+      </li>
+      <li>
+        <span class="cross">✗</span>
+        <span><strong>Burn down in a weekend.</strong> Paraffin has a low melting point and burns fast. A "beeswax" candle that costs $10 is almost certainly a paraffin blend.</span>
+      </li>
+      <li>
+        <span class="cross">✗</span>
+        <span><strong>Leave black soot on your walls and jars.</strong> That's paraffin burning — petroleum byproduct combustion releasing black carbon.</span>
+      </li>
+      <li>
+        <span class="cross">✗</span>
+        <span><strong>Claim to be "natural" but aren't.</strong> No legal standard requires a "beeswax" candle to be 100% beeswax. Many are as little as 10%.</span>
+      </li>
+    </ul>
+    <p style="color: var(--dark); font-weight: 600; font-size: 1rem;">There's a better option. One ingredient. Honest label. Made here.</p>
+  </div>
+</section>
+
+<!-- PRODUCT DETAILS -->
+<section class="funnel-details">
+  <div class="funnel-details-inner">
+    <img
+      src="images/product-main.jpeg"
+      alt="Golden Sanctuary beeswax candle with bamboo lid, black label, iridescent glass"
+      loading="lazy"
+      width="560"
+      height="560"
+      style="border-radius: 20px; box-shadow: 0 4px 24px rgba(42,26,10,0.12); width:100%;"
+    >
+
+    <div>
+      <span class="eyebrow">Golden Sanctuary</span>
+      <h2 style="font-size: clamp(1.8rem, 3vw, 2.6rem); color: var(--dark); margin-bottom: 24px;">What You're Getting</h2>
+
+      <ul class="product-features" style="margin-bottom: 36px;">
+        <li class="feature-item"><span class="feature-diamond">✦</span> 100% organic American beeswax — one ingredient, verified on the label</li>
+        <li class="feature-item"><span class="feature-diamond">✦</span> Burns 40+ hours — higher melt point = slower, longer burn</li>
+        <li class="feature-item"><span class="feature-diamond">✦</span> Natural honey aroma — no synthetic fragrance oils</li>
+        <li class="feature-item"><span class="feature-diamond">✦</span> 11 oz iridescent prism glass with solid wood lid</li>
+        <li class="feature-item"><span class="feature-diamond">✦</span> Hand-poured in Severn, Maryland</li>
+        <li class="feature-item"><span class="feature-diamond">✦</span> American-sourced beeswax — not imported</li>
+      </ul>
+
+      <div class="funnel-price" style="margin-bottom: 16px;">$28</div>
+
+      <!-- ============================================================
+           STRIPE BUY BUTTON — SECOND PLACEMENT
+           ============================================================ -->
+      <a href="YOUR_STRIPE_PAYMENT_LINK_1_CANDLE" class="btn-buy" aria-label="Buy Golden Sanctuary candle for $28">
+        Get Yours — $28
+      </a>
+      <p class="product-guarantee" style="margin-top:12px;">Ships within 1 business day · Secure Stripe checkout</p>
+    </div>
+  </div>
+</section>
+
+<!-- STORY BLURB -->
+<section class="funnel-story-blurb">
+  <span class="eyebrow" style="color: var(--honey-light);">Who Makes This</span>
+  <h2>A Father &amp; Son from Severn, Maryland</h2>
+  <p>
+    We started in 2025 because we wanted a candle we could actually trust.
+    We source 100% American organic beeswax, hand-pour every candle ourselves,
+    and put exactly one ingredient on the label. No shortcuts. No blends. No marketing spin.
+  </p>
+  <img
+    src="images/beeswax-melting.jpg"
+    alt="Raw beeswax melting — the process behind every Beeswax Pat candle"
+    loading="lazy"
+    width="360"
+    height="280"
+    style="border-radius: var(--radius-md); margin: 0 auto; max-width: 360px;"
+  >
+</section>
+
+<!-- FAQ (condensed) -->
+<section class="funnel-faq">
+  <div class="faq-inner" style="max-width: 640px; margin: 0 auto;">
+    <div class="section-header">
+      <span class="eyebrow">Quick Answers</span>
+      <h2>Common Questions</h2>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        Is this really 100% beeswax?
+        <span class="faq-icon" aria-hidden="true">+</span>
+      </button>
+      <div class="faq-answer">
+        <div class="faq-answer-inner">
+          Yes. One ingredient: 100% Organic American Beeswax. Read the label — there's nothing else on it.
+        </div>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        Why does beeswax burn longer?
+        <span class="faq-icon" aria-hidden="true">+</span>
+      </button>
+      <div class="faq-answer">
+        <div class="faq-answer-inner">
+          Beeswax has the highest melting point of any natural wax (144–149°F vs 122–131°F for soy).
+          It liquefies more slowly, which means a slower, longer burn. The Golden Sanctuary burns 40+ hours.
+        </div>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        What does it smell like?
+        <span class="faq-icon" aria-hidden="true">+</span>
+      </button>
+      <div class="faq-answer">
+        <div class="faq-answer-inner">
+          Warm, subtle natural honey — from the beeswax itself. No synthetic fragrance added.
+          It's not a strong scent throw. It's clean and honest.
+        </div>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        How fast does it ship?
+        <span class="faq-icon" aria-hidden="true">+</span>
+      </button>
+      <div class="faq-answer">
+        <div class="faq-answer-inner">
+          Ships within 1 business day to anywhere in the United States.
+          Questions? Email <a href="mailto:beeswaxpat@gmail.com" style="color:var(--amber);">beeswaxpat@gmail.com</a>.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="funnel-final-cta">
+  <span class="eyebrow">Ready?</span>
+  <h2>Pure Light, Honestly Made</h2>
+  <p>One candle. One ingredient. Made by hand in Maryland. Give it a burn — you'll know the difference.</p>
+
+  <div style="max-width: 440px; margin: 0 auto;">
+    <!-- ============================================================
+         STRIPE BUY BUTTON — THIRD (FINAL) PLACEMENT
+         ============================================================ -->
+    <a href="YOUR_STRIPE_PAYMENT_LINK_1_CANDLE" class="btn-buy" aria-label="Buy Golden Sanctuary candle for $28">
+      Get Yours — $28
+    </a>
+
+    <div class="funnel-trust-badges" style="margin-top: 20px;">
+      <span>🔒 Secure Checkout</span>
+      <span>📦 Ships Tomorrow</span>
+      <span>🇺🇸 Made in USA</span>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<div class="funnel-footer">
+  <p>© 2026 Beeswax Pat · Severn, Maryland · <a href="mailto:beeswaxpat@gmail.com">beeswaxpat@gmail.com</a></p>
+  <p style="margin-top:8px;"><a href="/">← Back to main site</a></p>
+</div>
+
+<script src="js/main.js" defer></script>
+</body>
+</html>
