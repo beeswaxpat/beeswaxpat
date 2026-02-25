@@ -71,6 +71,7 @@
 
   function showPopup() {
     if (!popup) return;
+    return; // POPUP DISABLED — re-enable when discount code is ready
     if (sessionStorage.getItem(POPUP_KEY)) return;
     popup.classList.add('show');
     sessionStorage.setItem(POPUP_KEY, '1');
