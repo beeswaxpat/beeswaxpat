@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /funnel.html
+
+Sitemap: https://www.beeswaxpat.com/sitemap.xml

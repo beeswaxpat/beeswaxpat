@@ -3,7 +3,7 @@
 ## Project Info
 - **Domain:** beeswaxpat.com
 - **Deployed at:** Render (static site) → GitHub repo: beeswaxpat-com
-- **Render URL:** (update after first deploy)
+- **Render URL:** https://beeswaxpat.onrender.com (infrastructure only — canonical domain is beeswaxpat.com)
 - **Stack:** Static HTML/CSS/JS — no build step, no framework
 
 ## Contact & Business
@@ -32,6 +32,12 @@ All images in `/images/` — originals at `C:\Users\pscol\Desktop\Beeswax Pat\`
 1. Go to formspree.io → create free account → New Form
 2. Copy the form endpoint (e.g. `https://formspree.io/f/xabcdefg`)
 3. In index.html, find `YOUR_FORMSPREE_ID` and replace with your form ID
+
+## Google Search Console
+- Already verified and set up for **beeswaxpat.com** (Feb 24, 2026)
+- Do NOT add beeswaxpat.onrender.com — canonical domain only
+- Stats as of Feb 24, 2026: 20 total clicks, 5 indexed pages, 10 not indexed
+- sitemap.xml and robots.txt added Feb 24, 2026 — resubmit sitemap in GSC after deploy
 
 ## DNS — Pointing beeswaxpat.com to Render
 Domain is at Hostinger (hpanel.hostinger.com → Domains → Domain portfolio).
