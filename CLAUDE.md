@@ -8,7 +8,7 @@
 
 ## Contact & Business
 - **Email:** beeswaxpat@gmail.com
-- **Product:** Golden Sanctuary Beeswax Candle — 11 oz, $28
+- **Product:** Old Line Beeswax Candle — 11 oz, $28
 - **Made in:** Severn, Maryland
 - **Tagline:** "Pure Light, Honestly Made"
 
@@ -22,7 +22,7 @@ All images in `/images/` — originals at `C:\Users\pscol\Desktop\Beeswax Pat\`
 - `logo.avif` — brand logo (add PNG fallback if Safari issues arise)
 
 ## Stripe Setup (buy buttons)
-1. Go to Stripe Dashboard → Products → Create product (Golden Sanctuary, $28)
+1. Go to Stripe Dashboard → Products → Create product (Old Line, $28)
 2. Create a Payment Link for the product
 3. Click "Buy Button" tab → configure → copy embed code
 4. In index.html and funnel.html, find `<!-- STRIPE BUY BUTTON -->` comments and replace placeholder with embed code
