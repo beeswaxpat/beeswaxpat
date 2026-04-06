@@ -4,7 +4,7 @@ Agentic Autist. U.S. Army Veteran. I build privacy-first apps and AI-powered too
 
 #### What I'm Building
 
-- **[Agentic Dev](https://agenticdev.blog/)** — Daily AI dev tools newsletter, curated by AI agents. Hub-and-spoke pipeline scrapes 16 RSS feeds, summarizes and scores with Claude, auto-publishes via Buttondown. ([subscribe](https://agenticdev.blog/))
+- **[Agentic Dev](https://agenticdev.blog/)** — Agentic news and daily AI dev tools newsletter, curated by AI agents. Hub-and-spoke pipeline scrapes 16 RSS feeds, summarizes and scores with Claude, auto-publishes via Buttondown. ([subscribe](https://agenticdev.blog/))
 
 - **[Lumara](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara)** — Sun & Moon live viewer for Android. 12 NASA SDO wavelengths, timelapse videos, moon phases, space weather. No ads, no tracking. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara))
 
