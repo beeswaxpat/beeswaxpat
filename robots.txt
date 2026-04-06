@@ -1,8 +1,0 @@
-# Beeswax Pat - 100% Pure American Beeswax Candles
-# https://www.beeswaxpat.com
-
-User-agent: *
-Allow: /
-Disallow: /funnel.html
-
-Sitemap: https://www.beeswaxpat.com/sitemap.xml
