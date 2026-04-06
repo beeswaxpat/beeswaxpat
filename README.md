@@ -14,6 +14,6 @@ Agentic Autist. U.S. Army Veteran. I build privacy-first apps and AI-powered too
 
 #### Stack
 
-Flutter · Python · Node.js · ffmpeg · Grok AI · Built with [Claude Code](https://claude.ai/claude-code)
+Flutter · Python · Node.js · ffmpeg · Built with Claude Opus 4.6 via [Claude Code](https://claude.ai/claude-code)
 
 ---
