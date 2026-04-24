@@ -24,4 +24,6 @@ Agentic Autist. U.S. Army Veteran. I build privacy-first apps and AI-powered too
 
 - **[Scrib Desktop](https://github.com/beeswaxpat/scrib-desktop)** — Open-source encrypted text editor for Windows. AES-256, rich text, multi-tab, fully offline. ([blog post](https://scrib.blog/blog/scrib-desktop-open-source))
 
+- **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)** — Cinematic ambient YouTube channel. Retro sci-fi vistas, NASA moon timelapses, long-form soundscapes — rendered end-to-end with local ffmpeg pipelines. ([subscribe](https://www.youtube.com/@ambientpleasures))
+
 #### CONTACT ME AT beeswaxpat.com
