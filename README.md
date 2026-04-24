@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="BEESWAX PAT — agentic · privacy-first · honey-powered" width="750">
+  <img src="banner.svg?v=2" alt="BEESWAX PAT — agentic · privacy-first · honey-powered" width="750">
 </p>
 
 ### Hey, I'm Beeswax Pat
