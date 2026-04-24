@@ -22,4 +22,4 @@ Agentic Autist. U.S. Army Veteran. I build privacy-first apps and AI-powered too
 
 - **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)** — Cinematic ambient YouTube channel. Retro sci-fi vistas, NASA moon timelapses, long-form soundscapes — rendered end-to-end with local ffmpeg pipelines. ([subscribe](https://www.youtube.com/@ambientpleasures))
 
-#### CONTACT ME AT beeswaxpat.com
+#### CONTACT ME AT beeswaxpat@gmail.com
