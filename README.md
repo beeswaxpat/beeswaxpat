@@ -8,7 +8,7 @@ Builder, agentic doer. U.S. Army Veteran. I build privacy-first apps and AI-powe
 
 #### What I'm Building
 
-- **[Lumara](https://lumara-space.app)** — Sun & Moon live dashboard. 12 NASA SDO wavelengths, real-time moon phases, ISS Earth feed, space weather. Web + Android live, iOS coming soon. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara))
+- **[Lumara Live](https://lumara-space.app)** — Sun & Moon live dashboard. 12 NASA SDO wavelengths, real-time moon phases, ISS Earth feed, space weather. Web + Android live, iOS coming soon. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara))
 
 - **[ai-jobs.careers](https://ai-jobs.careers/)** — Curated AI job board scoring every role 0–100 for AI agency (how much it builds + uses AI systems/tools daily). Hub-and-spoke pipeline aggregates public ATS/company feeds (no scraping), Claude scores descriptions on build, auto-refreshes every 12 hours.
 
