@@ -4,7 +4,7 @@
 
 Cleared intelligence analyst and Army veteran. Two decades of OSINT, analysis, and counterintelligence work, and leading the teams that do it.
 
-I build the tooling I wish I'd had: agents that produce **sourced, reliability-graded, confidence-calibrated** work instead of confident guesses. Analytic tradecraft is the part most AI tooling skips, and it is the part that decides whether a finding survives contact with someone who will challenge it.
+Analytic tradecraft is the part most AI tooling skips, and it is the part I most enjoy building back in.
 
 **Open to agentic engineering roles.** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
@@ -32,6 +32,8 @@ I build the tooling I wish I'd had: agents that produce **sourced, reliability-g
 
 #### How I work
 
-Determinism over probability where the answer has to be defended. Fail closed, never fake a verdict. Say what a tool cannot do as plainly as what it can. Every claim on this page is one I can show you the measurement for.
+I like problems where the work has to hold up: a clear answer, the reasoning visible behind it, and limits stated as plainly as capabilities. Twenty years of analysis taught me that being useful and being honest are the same skill, and that the fastest way to earn someone's trust is to show them exactly how you got there.
+
+I ship small, measure what I build, and enjoy the part where a rough idea turns into something people can actually run. Always glad to talk shop with people building in this space.
 
 **Contact:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
