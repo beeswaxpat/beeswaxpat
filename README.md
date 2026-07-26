@@ -24,7 +24,7 @@ Analytic tradecraft is the part most AI tooling skips, and it is the part I most
 
 - **[Scrib](https://scrib.blog/)**: Encrypted notes for Android. AES-256, PIN lock, Private Vault, zero data collected. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
 - **[Scrib Desktop](https://github.com/beeswaxpat/scrib-desktop)**: Open-source encrypted editor for Windows. AES-256, rich text, multi-tab, fully offline.
-- **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, ISS feed, space weather. Web, Android, iOS.
+- **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, ISS feed, space weather. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara) · [App Store](https://apps.apple.com/us/app/lumara-sun-moon-live-viewer/id6763933502))
 - **[NEXUS-7](https://github.com/beeswaxpat/nexus-7)**: Cyberpunk markets dashboard for Windows. Public APIs only, no accounts, no keys, no telemetry.
 - **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)**: Cinematic ambient YouTube channel, rendered end to end with local ffmpeg pipelines.
 
