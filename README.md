@@ -2,24 +2,38 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-### Hey, I'm Beeswax Pat
+### Beeswax Pat, 20 years in intelligence analysis, now building agents
 
-Agentic Builder. Army Veteran. I build privacy-first apps and AI-powered tools.
+Cleared intelligence analyst and Army veteran. Two decades of OSINT, SIGINT, and counterintelligence work, and leading the teams that do it.
 
-#### What I'm Building
+I build the tooling I wish I'd had: agents that produce **sourced, reliability-graded, confidence-calibrated** work instead of confident guesses. Analytic tradecraft is the part most AI tooling skips, and it is the part that decides whether a finding survives contact with someone who will challenge it.
 
-- **[ChronoVerify](https://chronoverify.com/)**: Image capture-time and provenance verification. Checks when a photo was taken, where it was taken if GPS data is still present, and whether it shows signs of editing, by reading EXIF, XMP, and C2PA Content Credentials and running pixel forensics. Returns one plain-language verdict with a confidence score. Free public verifier plus a developer API. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api))
+**Open to agentic engineering roles.** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
-- **[Scrib](https://scrib.blog/)**: Encrypted notes app for Android. AES-256, PIN lock, Private Vault. Zero data collected. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
+---
 
-- **[Scrib Desktop](https://github.com/beeswaxpat/scrib-desktop)**: Open-source encrypted text editor for Windows. AES-256, rich text, multi-tab, fully offline. ([blog post](https://scrib.blog/blog/scrib-desktop-open-source))
+#### Tradecraft for AI agents
 
-- **[NEXUS-7](https://github.com/beeswaxpat/nexus-7)**: Cyberpunk crypto and stock dashboard for the Windows desktop. Tracks live markets alongside a holographic globe with real satellites, a synthwave city, and end-to-end encrypted chat, all running on public APIs with no accounts, keys, or telemetry. ([download](https://github.com/beeswaxpat/nexus-7/releases/latest))
+- **[ChronoVerify](https://chronoverify.com/)**: Image capture-time and provenance verification, live in production. Cryptographic C2PA Content Credentials validation against the official trust lists, EXIF/XMP analysis, and conservative pixel forensics, returning one typed verdict plus a signed, independently verifiable report. Measured **0 false positives on 40 real camera photos**, and it deliberately refuses to claim AI detection. Free public verifier, keyless API, [MCP server](https://github.com/beeswaxpat/chronoverify-mcp), and [agent recipes](https://github.com/beeswaxpat/chronoverify-agent-recipes) for OpenAI, Claude, LangChain, LlamaIndex, CrewAI, and n8n. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api) · [method and limits](https://chronoverify.com/method))
 
-- **[Lumara Live](https://lumara-space.app)**: Sun & Moon live dashboard. 12 NASA SDO wavelengths, real-time moon phases, ISS Earth feed, space weather. Web + Android + iOS. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara) · [App Store](https://apps.apple.com/us/app/lumara-sun-moon-live-viewer/id6763933502))
+- **[chronoverify-mcp](https://github.com/beeswaxpat/chronoverify-mcp)**: MCP server on the official registry, npm, Glama, and Smithery. Typed `structuredContent`, honest tool descriptions, works keyless. `npx chronoverify-mcp`
 
-- **[ffmpeg-render-pro v1.5](https://www.npmjs.com/package/ffmpeg-render-pro)**: Parallel video renderer for Node.js + FFmpeg. Worker threads split the frame range, auto-detects GPU encoders (NVENC, VideoToolbox, AMF), stream-copies the concat (no re-encode). Ships with a live dashboard, checkpoints, color grading, audio merge, and an MCP server.
+- **[ffmpeg-render-pro](https://www.npmjs.com/package/ffmpeg-render-pro)**: Parallel video renderer for Node.js + FFmpeg. Worker threads split the frame range, GPU encoders auto-detected (NVENC, VideoToolbox, AMF), stream-copy concat with no re-encode. Ships a live dashboard, checkpoints, color grading, audio merge, and an MCP server exposing 7 typed tools.
 
-- **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)**: Cinematic ambient YouTube channel. Retro sci-fi vistas, NASA moon timelapses, long-form soundscapes, rendered end-to-end with local ffmpeg pipelines. ([subscribe](https://www.youtube.com/@ambientpleasures))
+<!-- PRODUCTS: add the OSINT Research-Agent Pack + store link here once the Polar checkout links exist -->
 
-#### CONTACT ME AT beeswaxpat@gmail.com
+#### Privacy-first apps
+
+- **[Scrib](https://scrib.blog/)**: Encrypted notes for Android. AES-256, PIN lock, Private Vault, zero data collected. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
+- **[Scrib Desktop](https://github.com/beeswaxpat/scrib-desktop)**: Open-source encrypted editor for Windows. AES-256, rich text, multi-tab, fully offline.
+- **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, ISS feed, space weather. Web, Android, iOS.
+- **[NEXUS-7](https://github.com/beeswaxpat/nexus-7)**: Cyberpunk markets dashboard for Windows. Public APIs only, no accounts, no keys, no telemetry.
+- **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)**: Cinematic ambient YouTube channel, rendered end to end with local ffmpeg pipelines.
+
+---
+
+#### How I work
+
+Determinism over probability where the answer has to be defended. Fail closed, never fake a verdict. Say what a tool cannot do as plainly as what it can. Every claim on this page is one I can show you the measurement for.
+
+**Contact:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
