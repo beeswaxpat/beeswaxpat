@@ -2,9 +2,7 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-### Beeswax Pat, 20 years in intelligence analysis, now building agents
-
-Cleared intelligence analyst and Army veteran. Two decades of OSINT, SIGINT, and counterintelligence work, and leading the teams that do it.
+Cleared intelligence analyst and Army veteran. Two decades of OSINT, analysis, and counterintelligence work, and leading the teams that do it.
 
 I build the tooling I wish I'd had: agents that produce **sourced, reliability-graded, confidence-calibrated** work instead of confident guesses. Analytic tradecraft is the part most AI tooling skips, and it is the part that decides whether a finding survives contact with someone who will challenge it.
 
