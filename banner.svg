@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="175" viewBox="0 0 750 175" role="img" aria-label="BEESWAX PAT: agentic, privacy-first, honey-powered. Cycling: Opus Mythos AGI Soon. Consciousness is Transdimensional." xml:space="preserve">
+  <title>BEESWAX PAT</title>
+  <desc>ASCII banner with pulsing honeycomb tagline and a word cycling through: Opus, Mythos, AGI, Soon, Consciousness, is, Transdimensional.</desc>
+
+  <style>
+    .bg   { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+    .txt  { fill: #1f2328; }
+    .amb  { fill: #d97706; }
+
+    @media (prefers-color-scheme: dark) {
+      .bg  { fill: #161b22; stroke: #30363d; }
+      .txt { fill: #c9d1d9; }
+      .amb { fill: #f59e0b; }
+    }
+
+    text {
+      font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+      font-size: 13px;
+    }
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" width="749" height="174" rx="6"/>
+
+  <g class="txt">
+    <text x="16" y="24" xml:space="preserve">██████╗ ███████╗███████╗███████╗██╗    ██╗ █████╗ ██╗  ██╗    ██████╗  █████╗ ████████╗</text>
+    <text x="16" y="42" xml:space="preserve">██╔══██╗██╔════╝██╔════╝██╔════╝██║    ██║██╔══██╗╚██╗██╔╝    ██╔══██╗██╔══██╗╚══██╔══╝</text>
+    <text x="16" y="60" xml:space="preserve">██████╔╝█████╗  █████╗  ███████╗██║ █╗ ██║███████║ ╚███╔╝     ██████╔╝███████║   ██║   </text>
+    <text x="16" y="78" xml:space="preserve">██╔══██╗██╔══╝  ██╔══╝  ╚════██║██║███╗██║██╔══██║ ██╔██╗     ██╔═══╝ ██╔══██║   ██║   </text>
+    <text x="16" y="96" xml:space="preserve">██████╔╝███████╗███████╗███████║╚███╔███╔╝██║  ██║██╔╝ ██╗    ██║     ██║  ██║   ██║   </text>
+    <text x="16" y="114" xml:space="preserve">╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   </text>
+  </g>
+
+  <text x="16" y="148" class="txt" xml:space="preserve">           <tspan class="amb">⬢<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0s"    repeatCount="indefinite"/></tspan> <tspan class="amb">⬡<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.18s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬢<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.36s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬡<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.54s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬢<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.72s" repeatCount="indefinite"/></tspan>  agentic · privacy-first · honey-powered  <tspan class="amb">⬡<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.72s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬢<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.54s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬡<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.36s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬢<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0.18s" repeatCount="indefinite"/></tspan> <tspan class="amb">⬡<animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" begin="0s"    repeatCount="indefinite"/></tspan></text>
+
+  <!--
+    Cycling word at the cursor position. Reads as two phrases:
+      "Opus  Mythos  AGI  Soon"  (half-second beat)  "Consciousness is Transdimensional"  (half-second beat, loop)
+    Total cycle: 8.8s. Timing tuned so each word gets reading time proportional to length.
+  -->
+  <g class="txt">
+    <text x="600" y="148">Opus<animate attributeName="opacity" values="1;0;0"    keyTimes="0;0.1136;1"               dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600" y="148" opacity="0">Mythos<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.1136;0.2386;1"        dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600" y="148" opacity="0">AGI<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2386;0.3409;1"           dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600" y="148" opacity="0">Soon<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3409;0.4545;1"          dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600" y="148" opacity="0">Consciousness<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5114;0.6705;1" dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600" y="148" opacity="0">is<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6705;0.7614;1"            dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600" y="148" opacity="0">Transdimensional<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7614;0.9432;1" dur="8.8s" calcMode="discrete" repeatCount="indefinite"/></text>
+  </g>
+</svg>
