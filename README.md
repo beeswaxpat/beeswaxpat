@@ -30,8 +30,6 @@ Before this, twenty years of OSINT and all-source analysis, and leading the team
 
 #### How I work
 
-I like problems where the work has to hold up: a clear answer, the reasoning visible behind it, and a system that says plainly what it cannot do. Analysis work taught me that being useful and being honest are the same skill, and that the fastest way to earn someone's trust is to show them exactly how you got there.
-
-I ship small, measure what I build, and enjoy the part where a rough idea turns into something people can actually run. Always glad to talk shop with people building in this space.
+I did not start out knowing how to build any of this. I research, plan, build, test, deploy, distribute, maintain it, I do not stop at a demo. Lean into GEO, AI-discoverability.
 
 **Contact:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
