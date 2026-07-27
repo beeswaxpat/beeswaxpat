@@ -18,8 +18,6 @@ Before this, twenty years of OSINT and all-source analysis, and leading the team
 
 - **[ffmpeg-render-pro](https://www.npmjs.com/package/ffmpeg-render-pro)**: Parallel video renderer for Node.js + FFmpeg. Worker threads split the frame range, GPU encoders auto-detected (NVENC, VideoToolbox, AMF), stream-copy concat with no re-encode. Ships a live dashboard, checkpoints, color grading, audio merge, and an MCP server exposing 7 typed tools.
 
-<!-- PRODUCTS: add the OSINT Research-Agent Pack + store link here once the Polar checkout links exist -->
-
 #### Privacy-first apps
 
 - **[Scrib](https://scrib.blog/)**: Encrypted notes for Android. AES-256, PIN lock, Private Vault, zero data collected. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
