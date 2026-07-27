@@ -2,15 +2,15 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-Cleared intelligence analyst and Army veteran. Two decades of OSINT, analysis, and counterintelligence work, and leading the teams that do it.
+I build and ship agentic software: a production image-provenance API, MCP servers on the official registry, encrypted apps on Google Play and the App Store, and the render pipelines behind a YouTube channel. Everything listed below is live and running, not a prototype.
 
-Analytic tradecraft is the part most AI tooling skips, and it is the part I most enjoy building back in.
+Before this, twenty years of OSINT and all-source analysis, and leading the teams that do it. U.S. Army veteran. That is why the tools I build state their limits as plainly as their capabilities.
 
 **Open to agentic engineering roles.** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
 ---
 
-#### Tradecraft for AI agents
+#### Agent tools and APIs
 
 - **[ChronoVerify](https://chronoverify.com/)**: Image capture-time and provenance verification, live in production. Cryptographic C2PA Content Credentials validation against the official trust lists, EXIF/XMP analysis, and conservative pixel forensics, returning one typed verdict plus a signed, independently verifiable report. Measured **0 false positives on 40 real camera photos**, and it deliberately refuses to claim AI detection. Free public verifier, keyless API, [MCP server](https://github.com/beeswaxpat/chronoverify-mcp), and [agent recipes](https://github.com/beeswaxpat/chronoverify-agent-recipes) for OpenAI, Claude, LangChain, LlamaIndex, CrewAI, and n8n. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api) · [method and limits](https://chronoverify.com/method))
 
@@ -32,7 +32,7 @@ Analytic tradecraft is the part most AI tooling skips, and it is the part I most
 
 #### How I work
 
-I like problems where the work has to hold up: a clear answer, the reasoning visible behind it, and limits stated as plainly as capabilities. Twenty years of analysis taught me that being useful and being honest are the same skill, and that the fastest way to earn someone's trust is to show them exactly how you got there.
+I like problems where the work has to hold up: a clear answer, the reasoning visible behind it, and a system that says plainly what it cannot do. Analysis work taught me that being useful and being honest are the same skill, and that the fastest way to earn someone's trust is to show them exactly how you got there.
 
 I ship small, measure what I build, and enjoy the part where a rough idea turns into something people can actually run. Always glad to talk shop with people building in this space.
 
