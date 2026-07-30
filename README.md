@@ -2,9 +2,9 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-I build and ship agentic software: a production image-provenance API, MCP servers on the official registry, encrypted apps on Google Play and the App Store, and the render pipelines behind a YouTube channel. Everything listed below is live and running, not a prototype.
+I build and ship agentic software: a production image-provenance API, MCP servers on the official registry, encrypted apps on Google Play and the App Store, and anything else I fancy at the moment.
 
-Before this, twenty years of OSINT and all-source analysis, and leading the teams that do it. U.S. Army veteran. That is why the tools I build state their limits as plainly as their capabilities.
+Before this, many years of defense contracting. US Army veteran. 
 
 **Open to agentic engineering roles.** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
@@ -30,6 +30,6 @@ Before this, twenty years of OSINT and all-source analysis, and leading the team
 
 #### How I work
 
-I did not start out knowing how to build any of this. I research, plan, build, test, deploy, distribute, maintain it, I do not stop at a demo. Lean into GEO, AI-discoverability.
+I research, plan, build, test, deploy, distribute, maintain it, I do not stop at a demo. Lean into GEO, AI-discoverability.
 
 **Contact:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
