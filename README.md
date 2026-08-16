@@ -6,7 +6,7 @@ I build and ship agentic software: a production image-provenance API, MCP server
 
 Before this, many years of defense contracting. US Army veteran. 
 
-**Open to agentic engineering roles.** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
+**Business partnerships, reach out.** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
 ---
 
