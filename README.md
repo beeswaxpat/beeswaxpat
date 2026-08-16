@@ -2,7 +2,7 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-I build and ship agentic software: a production image-provenance API, MCP servers on the official registry, encrypted apps on Google Play and the App Store, and anything else I fancy at the moment.
+GEO-first. I build and ship agentic software: a production image-provenance API, MCP servers on the official registry, encrypted apps on Google Play and the App Store, and anything else I fancy at the moment.
 
 Before this, many years of defense contracting. US Army veteran. 
 
