@@ -2,9 +2,9 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-Founder, builder, custom software developer. GEO business optimizer: I get businesses found by AI search.
+Founder, builder, custom software developer. GEO business optimizer.
 
-Before this, many years of defense contracting. US Army veteran.
+Before this, years of defense contracting. US Army veteran.
 
 **Work with me:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
