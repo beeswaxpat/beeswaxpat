@@ -26,6 +26,7 @@ Before this, years of defense contracting. US Army veteran.
 - **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, space weather. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara) · [App Store](https://apps.apple.com/us/app/lumara-sun-moon-live-viewer/id6763933502))
 - **[NEXUS-7](https://github.com/beeswaxpat/nexus-7)**: Cyberpunk markets dashboard for Windows. Public APIs only, no telemetry.
 - **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)**: Ambient YouTube channel, rendered end to end with local ffmpeg pipelines.
+- **[Sirenfall](https://sirenfall.live)**: Dystopian siren ambience in the browser. A dual-tone civil-defense siren synthesized live with Web Audio, not played from a recording.
 
 ---
 
