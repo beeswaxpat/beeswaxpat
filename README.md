@@ -33,6 +33,4 @@ US Army veteran.
 
 ---
 
-I research, plan, build, test, ship, and maintain. I do not stop at a demo.
-
 **Contact:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
