@@ -2,9 +2,6 @@
   <img src="banner.svg?v=2" alt="BEESWAX PAT: agentic, privacy-first, honey-powered" width="750">
 </p>
 
-**Co-Founder, [geobros.ai](https://geobros.ai)** · AI Discoverability for Businesses.  
-We tune local business sites to show up when customers ask AI who to call.
-
 Founder, builder, custom software developer. GEO business optimizer.
 
 US Army veteran.
