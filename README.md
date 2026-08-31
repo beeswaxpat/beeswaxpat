@@ -7,7 +7,7 @@ We tune local business sites to show up when customers ask AI who to call.
 
 Founder, builder, custom software developer. GEO business optimizer.
 
-Before this, years of defense contracting. US Army veteran.
+US Army veteran.
 
 **Work with me:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
 
