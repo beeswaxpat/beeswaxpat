@@ -18,15 +18,17 @@ US Army veteran.
 
 - **[ffmpeg-render-pro](https://www.npmjs.com/package/ffmpeg-render-pro)**: Parallel video renderer for Node.js + FFmpeg. GPU encoders auto-detected, live dashboard, checkpoints, MCP server with 7 typed tools.
 
-#### Privacy-first apps
+#### Privacy-first apps and sites
 
 - **[Scrib](https://scrib.blog/)**: Encrypted notes for Android. AES-256, PIN lock, zero data collected. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
 - **[Scrib Desktop](https://github.com/beeswaxpat/scrib-desktop)**: Open-source encrypted editor for Windows. Fully offline.
 - **[TidalFlow](https://play.google.com/store/apps/details?id=com.beeswaxpat.tidalflowapp)**: Free NOAA tide times and charts for Android. 3,499 US stations, offline favorites.
 - **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, space weather. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara) · [App Store](https://apps.apple.com/us/app/lumara-sun-moon-live-viewer/id6763933502))
+
+#### Current creative projects
+- **[Sirenfall](https://sirenfall.live)**: Dystopian siren ambience in the browser. A dual-tone civil-defense siren synthesized live with Web Audio, not played from a recording.
 - **[NEXUS-7](https://github.com/beeswaxpat/nexus-7)**: Cyberpunk markets dashboard for Windows. Public APIs only, no telemetry.
 - **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)**: Ambient YouTube channel, rendered end to end with local ffmpeg pipelines.
-- **[Sirenfall](https://sirenfall.live)**: Dystopian siren ambience in the browser. A dual-tone civil-defense siren synthesized live with Web Audio, not played from a recording.
 
 ---
 
