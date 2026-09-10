@@ -20,7 +20,7 @@ US Army veteran.
 
 #### Privacy-first apps and sites
 
-- **[Scrib](https://scrib.blog/)**: Encrypted notes for Android. AES-256, PIN lock, zero data collected. ([Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
+- **[Scrib](https://scrib.blog/)**: Encrypted notes for iPhone and Android. AES-256, PIN lock, zero data collected. ([App Store](https://apps.apple.com/us/app/scrib-encrypted-offline-notes/id6766088339) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.jot))
 - **[Scrib Desktop](https://github.com/beeswaxpat/scrib-desktop)**: Open-source encrypted editor for Windows. Fully offline.
 - **[TidalFlow](https://play.google.com/store/apps/details?id=com.beeswaxpat.tidalflowapp)**: Free NOAA tide times and charts for Android. 3,499 US stations, offline favorites.
 - **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, space weather. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara) · [App Store](https://apps.apple.com/us/app/lumara-sun-moon-live-viewer/id6763933502))
