@@ -20,7 +20,7 @@ US Army veteran.
 
 #### Local business services
 
-- **[GEObros](https://geobros.ai/)**: AI search and local SEO for local business owners, with published prices, no contracts, and every account left in the owner's name.
+- **[GEObros](https://geobros.ai/)**: Fixes what search engines and AI read about a local business so it is one of the three to five an AI names, through audits, tune-ups, and rebuilds to self-hosting, with published prices and no contracts.
 
 #### Privacy-first apps and sites
 
