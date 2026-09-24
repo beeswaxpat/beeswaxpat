@@ -12,11 +12,15 @@ US Army veteran.
 
 #### Agent tools and APIs
 
-- **[ChronoVerify](https://chronoverify.com/)**: Image provenance verification in production. A **C2PA Conformant Validator**, one of 6 US-based image validators on the [C2PA Conforming Products List](https://chronoverify.com/c2pa-conformance) (August 2026). Initial signatory of the EU Code of Practice on Transparency of AI-Generated Content (Section 1) alongside Meta, OpenAI, and Google. Typed verdicts, signed reports, no deepfake-detection claims. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api) · [MCP](https://github.com/beeswaxpat/chronoverify-mcp) · [recipes](https://github.com/beeswaxpat/chronoverify-agent-recipes))
+- **[ChronoVerify](https://chronoverify.com/)**: Image provenance verification in production. A **C2PA Conformant Validator** on the [C2PA Conforming Products List](https://chronoverify.com/c2pa-conformance) and a signatory of the EU Code of Practice on Transparency of AI-Generated Content. Typed verdicts, signed reports. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api) · [MCP](https://github.com/beeswaxpat/chronoverify-mcp) · [recipes](https://github.com/beeswaxpat/chronoverify-agent-recipes))
 
 - **[chronoverify-mcp](https://github.com/beeswaxpat/chronoverify-mcp)**: MCP server on the official registry, npm, Glama, and Smithery. Works keyless. `npx chronoverify-mcp`
 
 - **[ffmpeg-render-pro](https://www.npmjs.com/package/ffmpeg-render-pro)**: Parallel video renderer for Node.js + FFmpeg. GPU encoders auto-detected, live dashboard, checkpoints, MCP server with 7 typed tools.
+
+#### Local business services
+
+- **[GEObros](https://geobros.ai/)**: AI search and local SEO for business owners on Florida's Gulf Coast, with published prices, no contracts, and every account left in the owner's name.
 
 #### Privacy-first apps and sites
 
