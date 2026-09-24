@@ -20,7 +20,7 @@ US Army veteran.
 
 #### Local business services
 
-- **[GEObros](https://geobros.ai/)**: AI search and local SEO for business owners on Florida's Gulf Coast, with published prices, no contracts, and every account left in the owner's name.
+- **[GEObros](https://geobros.ai/)**: AI search and local SEO for local business owners, with published prices, no contracts, and every account left in the owner's name.
 
 #### Privacy-first apps and sites
 
