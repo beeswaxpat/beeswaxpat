@@ -12,7 +12,7 @@ US Army veteran.
 
 #### Agent tools and APIs
 
-- **[ChronoVerify](https://chronoverify.com/)**: Image provenance verification in production. A **C2PA Conformant Validator** on the [C2PA Conforming Products List](https://chronoverify.com/c2pa-conformance) and a signatory of the EU Code of Practice on Transparency of AI-Generated Content. Typed verdicts, signed reports. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api) · [MCP](https://github.com/beeswaxpat/chronoverify-mcp) · [recipes](https://github.com/beeswaxpat/chronoverify-agent-recipes))
+- **[ChronoVerify](https://chronoverify.com/)**: Image provenance verification. A **C2PA Conformant Validator** on the [C2PA Conforming Products List](https://chronoverify.com/c2pa-conformance) and a signatory of the EU Code of Practice on Transparency of AI-Generated Content. Typed verdicts, signed reports. ([verify a photo](https://chronoverify.com/) · [API](https://chronoverify.com/method#api) · [MCP](https://github.com/beeswaxpat/chronoverify-mcp) · [recipes](https://github.com/beeswaxpat/chronoverify-agent-recipes))
 
 - **[chronoverify-mcp](https://github.com/beeswaxpat/chronoverify-mcp)**: MCP server on the official registry, npm, Glama, and Smithery. Works keyless. `npx chronoverify-mcp`
 
@@ -30,10 +30,8 @@ US Army veteran.
 - **[Lumara Live](https://lumara-space.app)**: Sun and Moon dashboard. 12 NASA SDO wavelengths, moon phases, space weather. ([web](https://lumara-space.app) · [Google Play](https://play.google.com/store/apps/details?id=com.beeswaxpat.lumara) · [App Store](https://apps.apple.com/us/app/lumara-sun-moon-live-viewer/id6763933502))
 
 #### Current creative projects
-- **[Sirenfall](https://sirenfall.live)**: Dystopian siren ambience in the browser. A dual-tone civil-defense siren synthesized live with Web Audio, not played from a recording.
+
+- **[Morphogen II](https://beeswaxpat.github.io/morphogen/)**: A living reaction-diffusion field made with Claude, with a guestbook any AI agent can sign. Now and then it opens into a stained-glass chrysanthemum and a tunnel you fly through ([go straight in](https://beeswaxpat.github.io/morphogen/?passage)).
+- **[Sirenfall](https://sirenfall.live)**: Dystopian siren ambience in the browser, a dual-tone civil-defense siren synthesized live with Web Audio.
 - **[NEXUS-7](https://github.com/beeswaxpat/nexus-7)**: Cyberpunk markets dashboard for Windows. Public APIs only, no telemetry.
 - **[Ambient Pleasures](https://www.youtube.com/@ambientpleasures)**: Ambient YouTube channel, rendered end to end with local ffmpeg pipelines.
-
----
-
-**Contact:** [beeswaxpat@gmail.com](mailto:beeswaxpat@gmail.com)
